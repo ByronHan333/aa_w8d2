@@ -20,5 +20,9 @@ console.log(mathArray([1,2,3], (num) => doubler(num)));
 
 for (let index = 0; index < array.length; index++) {
   const element = array[index];
+
+}
+
+for(let i = 0; i < .length; i++) {
   
 }
